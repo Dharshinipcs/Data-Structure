@@ -1,3 +1,4 @@
+//Write routines to implement2 stacks using only 1 array. Your stack routines should not decalre an overflow unless every slot in the array is used.
 #include <iostream>
 using namespace std;
 
