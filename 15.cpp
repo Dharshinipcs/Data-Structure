@@ -1,3 +1,5 @@
+//Given a circular doubly linked list consisting of N nodes, the task is to modify every node of the
+//given Linked List such that each node contains the sum of all nodes except that node.
 #include <iostream>
 using namespace std;
 class Node {
