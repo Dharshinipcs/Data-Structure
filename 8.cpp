@@ -1,3 +1,4 @@
+//Given an array arr[] of N integers and an integer X, the task is to find three integers in arr[] such that the sum is closest to X.
 #include <iostream>
 using namespace std;
 void bubbleSort(int arr[], int n) {
