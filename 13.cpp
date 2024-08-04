@@ -1,3 +1,5 @@
+//C++ program to reverse every element in the doubly linked list and also reverse and print the reversed
+//elements in the doubly linked list.
 #include <iostream>
 using namespace std;
 class Node {
