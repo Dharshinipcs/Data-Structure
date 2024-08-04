@@ -1,3 +1,7 @@
+//In a given circular linked list do the following:
+//a) insert an element at the beginning of the circular linked list.
+//b) insert an element at the end of the circular linked list.
+//c) insert an element at the nth position of the circular linked list
 #include <iostream>
 using namespace std;
 class Node
