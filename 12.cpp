@@ -1,4 +1,5 @@
-//C++ Program to remove duplicates from a sorted linked list.
+//C++ Program to remove duplicates from a sorted linked list. Write a function that takes a list sorted in non-
+//decreasing order and deletes any duplicate nodes from the list. The list should only be traversed once
 #include <iostream>
 using namespace std;
 class Node
