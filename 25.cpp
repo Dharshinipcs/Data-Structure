@@ -1,3 +1,4 @@
+//C++ Program to sort a hand of playing cards in ascending order using the Insertion Sort algorithm.
 #include <iostream>
 using namespace std;
 void printCards(const int cards[], int size) {
