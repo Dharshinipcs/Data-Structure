@@ -1,3 +1,4 @@
+//We are given an array of even size, we have to sort the array in such a way that the sum of product of consecutive pair elements is minimum also we have to find that minimum sum.
 #include <iostream>
 using namespace std;
 void bubbleSort(int arr[], int n) {
