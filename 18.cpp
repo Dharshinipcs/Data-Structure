@@ -1,3 +1,5 @@
+//A program that implements a stack operation (pop, push, printing and peek) with employee data (Name, id,
+//salary) using an array.
 #include <iostream>
 #define MAX 100
 using namespace std;
