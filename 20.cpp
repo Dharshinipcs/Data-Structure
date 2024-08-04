@@ -1,3 +1,4 @@
+//Given a string, reverse it using stack operations.
 #include <iostream>
 using namespace std;
 class Stack {
