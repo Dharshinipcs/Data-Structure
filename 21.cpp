@@ -1,3 +1,5 @@
+//Given a continuous string of containing only variables, open and closed parenthesis, find whether the
+//parenthesis are balanced. Use stack for implementing the logic
 #include <iostream>
 using namespace std;
 
