@@ -1,3 +1,5 @@
+//Pairwise swap of elements in a circular doubly linked list. If the number of nodes is odd, keep the last one
+//without swapping. Print the new list.
 #include <iostream>
 using namespace std;
 class Node {
