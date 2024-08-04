@@ -1,3 +1,4 @@
+//A program that implements a stack operation (pop, push, printing and peek) using a linked list for student details.
 #include <iostream>
 using namespace std;
 
